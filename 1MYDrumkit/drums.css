@@ -1,0 +1,28 @@
+body {
+	background-image: url("public/lwcauvj39y-gabriel-barletta.jpg");
+	background-position: center;
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-attachment: fixed;
+	display: flex;
+	justify-content: space-around;
+	padding: 40vh 10vw;
+}
+.keys {
+	color: white;
+	background-color: rgba(0, 0, 0, 0.7);
+	border-radius: 5px;
+	width: 5vw;
+	text-align: center;
+	/*padding: 0px 2.5vw;*/
+	border: 2px solid rgba(255,255,255,.7);
+}
+.desc {
+	margin-top: -15px;
+	margin-bottom: -2px;
+	font-size: 15px;
+}
+.keyshadow {
+	border: 2px solid yellow;
+	box-shadow: 0px 0px 10px yellow;
+}
